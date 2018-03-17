@@ -1,7 +1,7 @@
 install:
   - rm -rf public || exit 0
 script:
-  - binaries/hugo -t hugo-future-imperfect
+  - binaries/hugo
   - echo 'saturnism.me' > public/CNAME
 deploy:
   provider: pages
