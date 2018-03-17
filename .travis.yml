@@ -1,0 +1,12 @@
+install:
+  - rm -rf public || exit 0
+script:
+  - binaries/hugo -t hugo-future-imperfect
+  - echo 'saturnism.me' > public/CNAME
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  on:
+    branch: master
