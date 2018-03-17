@@ -1,7 +1,8 @@
 install:
+  - sudo apt-get install hugo=0.37.1
   - rm -rf public || exit 0
 script:
-  - binaries/hugo
+  - hugo
   - echo 'saturnism.me' > public/CNAME
 deploy:
   provider: pages
