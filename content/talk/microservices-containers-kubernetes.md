@@ -27,6 +27,7 @@ In this session, you'll learn:
 ## Videos
 {{< youtube kT1vmK0r184 >}}
 
+
 ## Slides
 {{< speakerdeck 81e3f2702d7c47bf9d7b1fb788cc9efb >}}
 
@@ -34,3 +35,14 @@ In this session, you'll learn:
 - [Kubernetes](https://kubernetes.io)
 - [Sample Code](https://github.com/saturnism/spring-boot-docker)
 
+## Events
+- 2015 OSCON
+- [2015 SpringOne](https://www.youtube.com/watch?v=Bcs-inRnLDc)
+- [2015 J-Fall](https://www.youtube.com/watch?v=0mIwhAJz2Gg)
+- [2015 Devoxx Belgium](https://www.youtube.com/watch?v=kT1vmK0r184)
+- [2016 Devoxx Poland](https://www.youtube.com/watch?v=Z_gzl8RqZuE)
+- [2016 JFokus](https://www.youtube.com/watch?v=R2l-tL_1els)
+- [2016 vJUG 24](https://www.youtube.com/watch?v=27PExjWv6GY)
+- [2016 Voxxed Day Ticino](https://www.youtube.com/watch?v=4ZLVAymNA80)
+- [2016 GOTO Amsterdam](https://www.youtube.com/watch?v=8qSpvRKrgHk)
+- [2016 Devoxx Belgium](https://www.youtube.com/watch?v=hvfr_g4sBWY)

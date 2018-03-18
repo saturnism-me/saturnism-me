@@ -22,3 +22,6 @@ Everyone is talking about containers—but be aware! It takes discipline to use 
 - [Kubernetes](https://kubernetes.io)
 - [Ed Burns' Live Blog](http://ridingthecrest.com/blog/2017/02/23/ray-tsang-docker-tips-notes.html)
 
+## Events
+- 2017 DevNexus
+- 2017 JavaOne
