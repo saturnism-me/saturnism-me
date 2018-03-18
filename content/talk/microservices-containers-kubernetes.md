@@ -1,7 +1,7 @@
 +++
 author = "Ray Tsang"
-title = "Microservices, Containers, Kubernetes"
-description = "Microservices, Containers, Kubernetes"
+title = "Deployment & Managing Microservices with Containers and Kubernetes"
+description = "Deployment & Managing Microservices with Containers and Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "container", "docker", "kubernetes"]
 date = "2015-11-13"
