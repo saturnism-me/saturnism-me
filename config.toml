@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Ray Tsang"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 20
 disqusShortname = "saturnism-me"
 googleAnalytics = "UA-115937973-1"
 pluralizeListTitles = false
@@ -17,7 +17,7 @@ canonifyURLs = true
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "saturnism.me"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "/talk/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
