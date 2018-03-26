@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://saturnism.me/"
 languageCode = "en-us"
 title = "Ray Tsang"
 theme = "hugo-future-imperfect"
@@ -33,7 +33,7 @@ canonifyURLs = true
   # set to show or to hide categories in the sidebar
   showSidebarCategories = true
   # Sets Estimated Reading Time to appear in post headers
-  includeReadingTime   = true
+  includeReadingTime   = false 
   # Sets the Favicon and Version for the site. Default support is for
   # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
   # These are stored in the favicon folder. See the following for more information:
@@ -41,7 +41,7 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = true
+  socialShare          = false
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
   socialShareGoogleplus = true
@@ -57,7 +57,7 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["default"]
+  customCSS            = ["default", "/css/override.css"]
   customJS             = ["default"]
 
   # options for highlight.js (version, additional languages, and theme)
