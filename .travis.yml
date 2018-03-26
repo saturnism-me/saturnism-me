@@ -4,7 +4,7 @@ install:
   - rm -rf public || exit 0
 script:
   - hugo
-  - echo 'www.saturnism.me' > public/CNAME
+  - echo 'saturnism.me' > public/CNAME
 deploy:
   provider: pages
   skip_cleanup: true
