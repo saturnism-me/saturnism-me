@@ -34,6 +34,7 @@ In this session, you'll learn:
 ## Links
 - [Kubernetes](https://kubernetes.io)
 - [Sample Code](https://github.com/saturnism/spring-boot-docker)
+- [Workshop](http://bit.ly/k8s-lab)
 
 ## Events
 - 2015 OSCON
