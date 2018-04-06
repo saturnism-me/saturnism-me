@@ -34,5 +34,5 @@ In this talk, Ray will introduce Istio, an open source service mesh framework cr
 - [Istio](https://istio.io)
 - [Kubernetes](https://kubernetes.io)
 - [Sample Code](https://github.com/saturnism/istio-by-example-java)
-- [Workshop](https://github.com/saturnism/istio-workshop)
+- [Workshop](https://github.com/saturnism/istio-workshop) based on [Ryan Knight's Material](https://github.com/retroryan/istio-workshop)
 
