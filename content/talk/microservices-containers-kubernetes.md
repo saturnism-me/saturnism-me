@@ -10,6 +10,9 @@ date = "2015-11-13"
 featuredpath = "date"
 linktitle = ""
 type = "post"
+aliases = [
+  "/talk/kubernetes-101"
+]
 +++
 
 ## Abstract

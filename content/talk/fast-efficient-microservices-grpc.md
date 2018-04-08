@@ -10,6 +10,10 @@ date = "2017-04-11"
 featuredpath = "date"
 linktitle = ""
 type = "post"
+aliases = [
+  "/talk/fast-efficient-microservices",
+  "/talk/grpc-101"
+]
 +++
 
 ## Abstract
