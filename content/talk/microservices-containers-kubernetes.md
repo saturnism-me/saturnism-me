@@ -1,7 +1,7 @@
 +++
 author = "Ray Tsang"
-title = "Deployment & Managing Microservices with Containers and Kubernetes"
-description = "Deployment & Managing Microservices with Containers and Kubernetes"
+title = "Deploying & Managing Microservices with Containers and Kubernetes"
+description = "Deploying & Managing Microservices with Containers and Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "container", "docker", "kubernetes"]
 date = "2015-11-13"
@@ -30,9 +30,13 @@ In this session, you'll learn:
 ## Videos
 {{< youtube kT1vmK0r184 >}}
 
-
 ## Slides
 {{< speakerdeck 81e3f2702d7c47bf9d7b1fb788cc9efb >}}
+
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}                                                         
 
 ## Links
 - [Kubernetes](https://kubernetes.io)

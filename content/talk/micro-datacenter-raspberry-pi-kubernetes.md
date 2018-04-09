@@ -20,6 +20,10 @@ In this session, we'll look beyond container orchestration with Kubernetes, but 
 ## Videos
 {{< youtube iy29zElB4dc >}}
 
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
 
 ## Links
 - [Kubernetes](https://kubernetes.io)

@@ -23,6 +23,11 @@ Join this session to see how you can diagnose and troubleshoot production issues
 ## Slides
 {{< speakerdeck 484ae001e44a460d8e3efc537b665088 >}}
 
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
+
 ## Links
 - [Kubernetes](https://kubernetes.io)
 - [Stackdriver](https://cloud.google.com/stackdriver/)

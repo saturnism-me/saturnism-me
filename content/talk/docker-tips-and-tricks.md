@@ -18,6 +18,11 @@ Everyone is talking about containers—but be aware! It takes discipline to use 
 ## Slides
 {{< speakerdeck bfea9c7e78164ec8817c513accf09ff6 >}}
 
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
+
 ## Links
 - [Kubernetes](https://kubernetes.io)
 - [Ed Burns' Live Blog](http://ridingthecrest.com/blog/2017/02/23/ray-tsang-docker-tips-notes.html)
