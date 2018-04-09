@@ -1,0 +1,8 @@
+{{ partial "general-title" . }}
+
+{{ partial "header" . }}
+    {{ partial "navbar" . }}
+    <!-- Main -->
+    <iframe style="position: absolute; left:0; right:0; bottom:0; top:0; border:0;" id="typeform-full" width="100%" height="100%" frameborder="0" src="https://{{ .Params.typeformPrefix }}.typeform.com/to/{{ .Params.typeformFormId }}"></iframe>
+<script type="text/javascript" src="https://embed.typeform.com/embed.js"></script>
+{{ partial "footer" . }}

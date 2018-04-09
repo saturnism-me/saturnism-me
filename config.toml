@@ -122,6 +122,12 @@ canonifyURLs = true
   identifier = "fa fa-slideshare"
   weight = 2
 
+[[menu.main]]
+  name = "Feedback"
+  url = "/feedback/"
+  identifier = "fa fa-comments"
+  weight = 3
+
 #[[menu.main]]
 #  name = "Events"
 #  url = "/event/"
