@@ -5,11 +5,8 @@ description = "Troubleshooting & Debugging Microservices in Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "devop", "observability", "kubernetes", "istio"]
 date = "2017-11-11"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 +++
 
 ## Abstract

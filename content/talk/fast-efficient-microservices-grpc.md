@@ -5,11 +5,8 @@ description = "Fast and Efficient Microservices with gRPC"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "grpc", "protocol", "rest", "json"]
 date = "2017-04-11"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 aliases = [
   "/talk/fast-efficient-microservices",
   "/talk/grpc-101"

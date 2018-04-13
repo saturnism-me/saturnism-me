@@ -5,11 +5,8 @@ description = "A talk on building a Raspberry Pi cluster to run Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "container", "docker", "kubernetes"]
 date = "2016-01-31"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 +++
 
 ## Abstract

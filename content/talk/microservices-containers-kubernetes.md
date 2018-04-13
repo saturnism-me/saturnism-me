@@ -5,11 +5,8 @@ description = "Deploying & Managing Microservices with Containers and Kubernetes
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "container", "docker", "kubernetes"]
 date = "2015-11-13"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 aliases = [
   "/talk/kubernetes-101"
 ]

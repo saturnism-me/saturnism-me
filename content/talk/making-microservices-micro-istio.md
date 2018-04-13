@@ -5,11 +5,8 @@ description = "Making Microservices Micro with Istio and Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "service-mesh", "kubernetes", "istio"]
 date = "2017-11-28"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 aliases = [
   "/talk/making-microservices-micro",
   "/talk/istio-101"
