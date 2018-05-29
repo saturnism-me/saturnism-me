@@ -5,11 +5,8 @@ description = "Docker Tips and Tricks"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "container", "docker", "kubernetes"]
 date = "2017-10-04"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 +++
 
 ## Abstract
@@ -17,6 +14,11 @@ Everyone is talking about containers—but be aware! It takes discipline to use 
 
 ## Slides
 {{< speakerdeck bfea9c7e78164ec8817c513accf09ff6 >}}
+
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
 
 ## Links
 - [Kubernetes](https://kubernetes.io)

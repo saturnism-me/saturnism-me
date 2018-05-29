@@ -5,11 +5,8 @@ description = "Troubleshooting & Debugging Microservices in Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "devop", "observability", "kubernetes", "istio"]
 date = "2017-11-11"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 +++
 
 ## Abstract
@@ -22,6 +19,11 @@ Join this session to see how you can diagnose and troubleshoot production issues
 
 ## Slides
 {{< speakerdeck 484ae001e44a460d8e3efc537b665088 >}}
+
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
 
 ## Links
 - [Kubernetes](https://kubernetes.io)

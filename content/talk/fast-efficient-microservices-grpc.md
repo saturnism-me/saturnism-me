@@ -5,11 +5,8 @@ description = "Fast and Efficient Microservices with gRPC"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "grpc", "protocol", "rest", "json"]
 date = "2017-04-11"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 aliases = [
   "/talk/fast-efficient-microservices",
   "/talk/grpc-101"
@@ -32,6 +29,11 @@ In addition to learning about gRPC and HTTP/2 concepts with code and demonstrati
 
 ## Slides
 {{< speakerdeck d09fe2ef925d4f1387b51e71a713dee6 >}}
+
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
 
 ## Links
 - [gRPC](https://grpc.io)

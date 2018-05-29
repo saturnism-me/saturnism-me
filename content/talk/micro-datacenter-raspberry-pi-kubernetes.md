@@ -5,11 +5,8 @@ description = "A talk on building a Raspberry Pi cluster to run Kubernetes"
 categories = ["Microservices", "Cloud Native"]
 tags = ["talk", "java", "microservice", "container", "docker", "kubernetes"]
 date = "2016-01-31"
-#featured = "pic03.jpg"
-#featuredalt = "Pic 3"
-featuredpath = "date"
 linktitle = ""
-type = "post"
+type = "talk"
 +++
 
 ## Abstract
@@ -20,6 +17,10 @@ In this session, we'll look beyond container orchestration with Kubernetes, but 
 ## Videos
 {{< youtube iy29zElB4dc >}}
 
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}
 
 ## Links
 - [Kubernetes](https://kubernetes.io)
