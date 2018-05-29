@@ -40,3 +40,4 @@ Your feedback is important, please take a momement to let me know how I did and 
 - [Sample Code](https://github.com/saturnism/grpc-java-by-example)
 - [gRPC Contrib by Salesforce - Spring Boot Starter, Java 8 Stubs](https://github.com/salesforce/grpc-java-contrib)
 - [Reactive gRPC by Salesforce - RxJava2, Spring Reactor](https://github.com/salesforce/reactive-grpc)
+- [JHipster gRPC Generator](https://github.com/cbornet/generator-jhipster-grpc)
