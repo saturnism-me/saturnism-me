@@ -36,3 +36,5 @@ In addition to learning about gRPC and HTTP/2 concepts with code and demonstrati
 ## Links
 - [gRPC](https://grpc.io)
 - [Sample Code](https://github.com/saturnism/grpc-java-by-example)
+- [gRPC Contrib by Salesforce - Spring Boot Starter, Java 8 Stubs](https://github.com/salesforce/grpc-java-contrib)
+- [Reactive gRPC by Salesforce - RxJava2, Spring Reactor](https://github.com/salesforce/reactive-grpc)
