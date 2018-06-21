@@ -12,6 +12,9 @@ type = "talk"
 ## Abstract
 Everyone is talking about containers—but be aware! It takes discipline to use container technology. It may not be as secure nor as optimal as you thought it would be. Although it’s relatively easy to create a new immutable container image to run everywhere, you may have fallen into many of the caveats. Is it running as the root user? Why are the images taking so much space? Why did your containers run out of space in the first place!? Most importantly, your container images may not be as immutable nor repeatable as you thought, and your Java process might be overutilizing assigned resources! Attend this session to learn how to best address these issues when building your Java container images.
 
+## Videos
+{{< youtube 1N6DImklJOo >}}
+
 ## Slides
 {{< speakerdeck bfea9c7e78164ec8817c513accf09ff6 >}}
 
