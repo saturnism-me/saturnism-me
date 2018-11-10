@@ -29,45 +29,6 @@
     {{ end }}
   </section>
 
-  <!-- Posts List -->
-  <section class="recent-posts">
-    <div class="mini-posts">
-      <header>
-        <h3>Recent Talks</h3>
-      </header>
-      <div class="posts-container">
-        {{ $.Scratch.Set "recentPosts" .Site.Pages }}
-
-        {{ with .Site.Params.postAmount.sidebar }}
-          {{ $.Scratch.Set "postLimit" . }}
-        {{ else }}
-          {{ $.Scratch.Set "postLimit" 5 }}
-        {{ end }}
-
-        {{ range first ($.Scratch.Get "postLimit") (where ($.Scratch.Get "recentPosts") "Type" "talk") }}
-          <article class="mini-post">
-            <header>
-              <h3>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </h3>
-            </header>
-            {{ .Render "featured" }}
-          </article>
-        {{ end }}
-      </div>
-
-      {{ if ge (len (where .Site.Pages "Type" "post")) ($.Scratch.Get "postLimit") }}
-        <a href=
-          {{ with .Site.Params.viewMorePostLink }}
-            {{ . }}
-          {{ else }}
-            "/post/"
-          {{ end }}
-        class="button">View more posts</a>
-      {{ end }}
-    </div>
-  </section>
-
   <!-- This if statement only applies if someone goes to the /categories url -->
   <!-- Otherwise this section is shown for all other links -->
   {{ if .Site.Params.showSidebarCategories  }}
