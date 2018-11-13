@@ -35,5 +35,5 @@ Your feedback is important, please take a momement to let me know how I did and 
 - [Istio](https://istio.io)
 - [Kubernetes](https://kubernetes.io)
 - [Sample Code](https://github.com/saturnism/istio-by-example-java)
-- [Workshop](https://github.com/saturnism/istio-workshop) based on [Ryan Knight's Material](https://github.com/retroryan/istio-workshop)
+- [Workshop](http://bit.ly/istio-lab) based on [Ryan Knight's Material](https://github.com/retroryan/istio-workshop)
 
