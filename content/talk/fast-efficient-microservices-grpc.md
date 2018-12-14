@@ -38,6 +38,8 @@ Your feedback is important, please take a momement to let me know how I did and 
 ## Links
 - [gRPC](https://grpc.io)
 - [Sample Code](https://github.com/saturnism/grpc-java-by-example)
+- [Workshop](https://bit.ly/grpc-java-lab-doc)
 - [gRPC Contrib by Salesforce - Spring Boot Starter, Java 8 Stubs](https://github.com/salesforce/grpc-java-contrib)
-- [Reactive gRPC by Salesforce - RxJava2, Spring Reactor](https://github.com/salesforce/reactive-grpc)
+- [Reactive gRPC Generator by Salesforce - RxJava2, Spring Reactor](https://github.com/salesforce/reactive-grpc)
 - [JHipster gRPC Generator](https://github.com/cbornet/generator-jhipster-grpc)
+- [Rouzbeh's Kotlin gRPC Generator](https://github.com/rouzwawi/grpc-kotlin)
