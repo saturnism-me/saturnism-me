@@ -15,6 +15,8 @@ Debugging applications in production is like being the detective in a crime movi
 Join this session to see how you can diagnose and troubleshoot production issues w/ out of the box Kubernetes tools, as well as getting insight from the ecosystem with Weave Scope, JFrog Artifactory & Stackdriver tools.
 
 ## Videos
+{{< youtube 2hxTTyc6IH8 >}}
+
 {{< youtube pUA83-e82qI >}}
 
 ## Slides

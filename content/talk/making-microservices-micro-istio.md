@@ -21,6 +21,8 @@ Sure, it's easy to have a single stack that makes everything work provided there
 In this talk, Ray will introduce Istio, an open source service mesh framework created by Google, IBM, and Lyft. We'll see how the service mesh work, the technology behind it, and how it addresses aforementioned concerns.
 
 ## Videos
+{{< youtube g9qqEnhU_uU >}}
+
 {{< youtube AGztKw580yQ >}}
 
 ## Slides
