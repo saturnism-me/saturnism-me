@@ -24,11 +24,11 @@ canonifyURLs = true
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = false
   # Sets RSS icons to appear on the sidebar with the social media buttons
-  rssAppearAtTop       = false
-  rssAppearAtBottom    = true
+  rssAppearAtTop       = true
+  rssAppearAtBottom    = false
   # Sets Social Media icons to appear on the sidebar
   socialAppearAtTop    = true
-  socialAppearAtBottom = true
+  socialAppearAtBottom = false
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar
@@ -90,7 +90,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Ray Tsang"
 
-  paragraph = ""
+  paragraph = "Developer Advocate, Google Cloud Platform"
 
   about     = ""
 
