@@ -1,11 +1,11 @@
 +++
 title = "About Ray Tsang"
-date = "2018-03-17"
+date = "2019-08-02"
 categories = ["About"]
 +++
 
 ### Biography
-Ray is a Developer Advocate for the Google Cloud Platform and a Java Champion. Ray has extensive hands on cross-industry enterprise systems integration delivery and management experiences during his time at Accenture, managed full stack application development, DevOps. Ray specialized in middleware, big data, and PaaS products during his time at Red Hat while contributing to open source projects, such as Infinispan. Aside from technology, Ray enjoys traveling and adventures.
+Ray is a Developer Advocate for the Google Cloud Platform and a Java Champion. Ray works with engineering and product teams to improve Java developer productivity on GCP. Ray also help Alphabet companies migrate and adopt cloud native architecture. Prior to Google, Ray worked at Red Hat, Accenture, and other consulting companies. Ray focused on enterprise architecture, managed solutions delivery, and contributed to open source projects.  Aside from technology, Ray enjoys traveling and adventures.
 
 ### Projects
 - [JDeferred](http://jdeferred.org/)
