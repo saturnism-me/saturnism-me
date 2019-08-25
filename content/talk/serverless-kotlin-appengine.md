@@ -22,10 +22,10 @@ We'll show you how to use Kotlin end-to-end to build from an Android mobile clie
 ## Videos
 {{< youtube V4zDmIHcTrA >}}
 
+## Links
+- [Kotlin Samples](https://github.com/GooglecloudPlatform/kotlin-samples)
+
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
 
 - {{< typeform-popup K01lSP saturnism >}}
-
-## Links
-- [Kotlin Samples](https://github.com/GooglecloudPlatform/kotlin-samples)

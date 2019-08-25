@@ -14,6 +14,10 @@ Debugging applications in production is like being the detective in a crime movi
 
 Join this session to see how you can diagnose and troubleshoot production issues w/ out of the box Kubernetes tools, as well as getting insight from the ecosystem with Weave Scope, JFrog Artifactory & Stackdriver tools.
 
+## Code Labs / Samples
+- [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
+- [Container and Kubernetes by Examples with Spring Boot](https://github.com/saturnism/docker-kubernetes-by-example-java)
+
 ## Videos
 {{< youtube 2hxTTyc6IH8 >}}
 
@@ -22,13 +26,11 @@ Join this session to see how you can diagnose and troubleshoot production issues
 ## Slides
 {{< speakerdeck 484ae001e44a460d8e3efc537b665088 >}}
 
+## Links
+- [Kubernetes](https://kubernetes.io)
+- [Stackdriver](https://cloud.google.com/stackdriver/)
+
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
 
 - {{< typeform-popup K01lSP saturnism >}}
-
-## Links
-- [Kubernetes](https://kubernetes.io)
-- [Stackdriver](https://cloud.google.com/stackdriver/)
-- [Sample Code](https://github.com/saturnism/spring-boot-docker/tree/master/examples-java)
-

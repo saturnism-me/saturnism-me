@@ -24,21 +24,18 @@ In this session, you'll learn:
 - Perform critical DevOps steps, such as canary, rolling update, roll backs...
 - Tips and tricks!
 
+## Code Labs / Samples
+- [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
+- [Container and Kubernetes by Examples with Spring Boot](https://github.com/saturnism/docker-kubernetes-by-example-java)
+
 ## Videos
 {{< youtube kT1vmK0r184 >}}
 
 ## Slides
 {{< speakerdeck 81e3f2702d7c47bf9d7b1fb788cc9efb >}}
 
-## Feedback
-Your feedback is important, please take a momement to let me know how I did and what I can improve on!
-
-- {{< typeform-popup K01lSP saturnism >}}                                                         
-
 ## Links
 - [Kubernetes](https://kubernetes.io)
-- [Sample Code](https://github.com/saturnism/spring-boot-docker)
-- [Workshop](http://bit.ly/k8s-lab)
 
 ## Events
 - 2015 OSCON
@@ -51,3 +48,10 @@ Your feedback is important, please take a momement to let me know how I did and 
 - [2016 Voxxed Day Ticino](https://www.youtube.com/watch?v=4ZLVAymNA80)
 - [2016 GOTO Amsterdam](https://www.youtube.com/watch?v=8qSpvRKrgHk)
 - [2016 Devoxx Belgium](https://www.youtube.com/watch?v=hvfr_g4sBWY)
+
+## Feedback
+Your feedback is important, please take a momement to let me know how I did and what I can improve on!
+
+- {{< typeform-popup K01lSP saturnism >}}                                                         
+
+
