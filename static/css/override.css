@@ -5,8 +5,11 @@
   within the formating given.
 */
 
+h1, h2, h3, h4, h5, h6, .button, header p, #header .links ul li a, .post > footer .stats li ul li {
+  font-family: sans-serif;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
   letter-spacing: 0.05em;
   text-transform: none;
 }
@@ -20,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 1em;
 }
 
-header p {
+header p, .button, .post > footer .stats li ul li {
   text-transform: none;
 }
 
@@ -36,6 +39,3 @@ header p {
   margin: -3em 0 1.5em 0;
 }
 
-.post > footer .stats li ul li {
-  text-transform: none;
-}

@@ -58,8 +58,8 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["default", "/css/override.css"]
-  customJS             = ["default"]
+  customCSS            = ["https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "css/main.css", "css/add-on.css", "css/override.css"]
+  customJS             = ["js/util.js", "js/main.js", "js/backToTop.js"]
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = true # set to true to disable Highlight
