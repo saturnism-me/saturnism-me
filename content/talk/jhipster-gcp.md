@@ -21,11 +21,12 @@ Ray Tsang from Google contributed a couple of generators for JHipster, including
 ## Slides
 {{< speakerdeck 1017ec5d0f5d4f92a22c6e6853ae1d61 >}}
 
+## Links
+- [JHipster](https://www.jhipster.tech/)
+- [JHipster Kubernetes](https://www.jhipster.tech/kubernetes/)
+
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
 
 - {{< typeform-popup K01lSP saturnism >}}
 
-## Links
-- [JHipster](https://www.jhipster.tech/)
-- [JHipster Kubernetes](https://www.jhipster.tech/kubernetes/)

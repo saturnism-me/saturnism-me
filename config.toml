@@ -5,8 +5,9 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 20
 disqusShortname = "saturnism-me"
+#disqusShortname = ""
 googleAnalytics = "UA-115937973-1"
-pluralizeListTitles = false
+pluralizeListTitles = true
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
 canonifyURLs = true
@@ -23,17 +24,17 @@ canonifyURLs = true
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = false
   # Sets RSS icons to appear on the sidebar with the social media buttons
-  rssAppearAtTop       = false
-  rssAppearAtBottom    = true
+  rssAppearAtTop       = true
+  rssAppearAtBottom    = false
   # Sets Social Media icons to appear on the sidebar
   socialAppearAtTop    = true
-  socialAppearAtBottom = true
+  socialAppearAtBottom = false
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar
-  showSidebarCategories = true
+  showSidebarCategories = false
   # Sets Estimated Reading Time to appear in post headers
-  includeReadingTime   = false 
+  includeReadingTime   = false
   # Sets the Favicon and Version for the site. Default support is for
   # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
   # These are stored in the favicon folder. See the following for more information:
@@ -57,16 +58,16 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["default", "/css/override.css"]
-  customJS             = ["default"]
+  customCSS            = ["https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "css/main.css", "css/add-on.css", "css/override.css"]
+  customJS             = ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js", "https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js", "js/util.js", "js/main.js", "js/backToTop.js"]
 
   # options for highlight.js (version, additional languages, and theme)
-  disable_highlight = false # set to true to disable Highlight
+  disable_highlight = true # set to true to disable Highlight
   highlightjsVersion = "9.11.0"
-  highlightjsCDN = "//cdn.bootcss.com"
-  highlightjsLang = ["r", "yaml", "css"]
+  highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+  highlightjsLang = ["yaml", "java"]
   highlightjsTheme = "github"
-  MathJaxCDN = "//cdn.bootcss.com"
+  MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion = "2.7.1"
 
 # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
@@ -89,7 +90,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Ray Tsang"
 
-  paragraph = ""
+  paragraph = "Developer Advocate, Google Cloud Platform"
 
   about     = ""
 
@@ -106,7 +107,7 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 0
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -144,7 +145,7 @@ canonifyURLs = true
   name = "Blog"
   url = "https://medium.com/@saturnism/latest"
   identifier = "fa fa-newspaper-o"
-  weight = 4
+  weight = 5
 
 #[[menu.main]]
 #  name = "Categories"
@@ -171,14 +172,14 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "saturnism"
+  flickr           = ""
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = "saturnism"
   # Professional/Business Oriented Communities
-  linkedin         = "rayjtsang"
+  linkedin         = ""
   linkedin_company = ""
   foursquare       = ""
   xing             = ""

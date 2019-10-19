@@ -20,6 +20,12 @@ Sure, it's easy to have a single stack that makes everything work provided there
 
 In this talk, Ray will introduce Istio, an open source service mesh framework created by Google, IBM, and Lyft. We'll see how the service mesh work, the technology behind it, and how it addresses aforementioned concerns.
 
+## Code Labs / Samples
+- [Istio with Spring Boot](http://bit.ly/istio-lab)
+- [Istio by Examples with Java](https://github.com/saturnism/istio-by-example-java)
+- [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
+- [Container and Kubernetes by Examples with Spring Boot](https://github.com/saturnism/docker-kubernetes-by-example-java)
+
 ## Videos
 {{< youtube g9qqEnhU_uU >}}
 
@@ -28,14 +34,12 @@ In this talk, Ray will introduce Istio, an open source service mesh framework cr
 ## Slides
 {{< speakerdeck bf2f37c2a59a48039de097d18d20e7eb >}}
 
+## Links
+- [Istio](https://istio.io)
+- [Kubernetes](https://kubernetes.io)
+
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
 
 - {{< typeform-popup K01lSP saturnism >}}
-
-## Links
-- [Istio](https://istio.io)
-- [Kubernetes](https://kubernetes.io)
-- [Sample Code](https://github.com/saturnism/istio-by-example-java)
-- [Workshop](http://bit.ly/istio-lab) based on [Ryan Knight's Material](https://github.com/retroryan/istio-workshop)
 
