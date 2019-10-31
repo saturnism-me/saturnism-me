@@ -8,7 +8,8 @@ date = "2019-10-08"
 linktitle = ""
 type = "talk"
 aliases = [
-  "/talk/kubernetes-best-practices"
+  "/talk/kubernetes-best-practices",
+  "/talk/kubernetes-201"
 ]
 +++
 
