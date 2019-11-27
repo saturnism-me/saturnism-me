@@ -4,8 +4,8 @@ title = "Ray Tsang"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 20
-disqusShortname = "saturnism-me"
-#disqusShortname = ""
+#disqusShortname = "saturnism-me"
+disqusShortname = ""
 googleAnalytics = "UA-115937973-1"
 pluralizeListTitles = true
 # Set the followings to true as part of your site SEO
