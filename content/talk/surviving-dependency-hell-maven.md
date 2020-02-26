@@ -1,28 +1,25 @@
 +++
 author = "Ray Tsang"
-title = "Spring (or Java) to Kubernetes Faster and Easier"
-description = "Kubernetes Best Practices - Spring (or Java) to Kubernetes Faster and Easier"
-categories = ["Microservices", "Cloud Native"]
-tags = ["talk", "java", "microservice", "spring", "kubernetes", "container", "docker"]
-date = "2019-10-08"
+title = "Surviving Dependency Hell with Maven"
+description = "Surviving Dependency Hell with Maven"
+categories = ["Java", "Maven"]
+tags = ["talk", "java", "maven"]
+date = "2020-02-21"
 linktitle = ""
 type = "talk"
 aliases = [
-  "/talk/kubernetes-best-practices",
-  "/talk/kubernetes-201"
+  "/talk/dependency-hell"
 ]
 +++
 
 ## Abstract
-For Spring and Java developers, building containers is a common obstacle on the road to Kubernetes adoption. Traditionally, Dockerfiles define container builds imperatively, but can also be cumbersome, error-prone, and slow. The development cycle can be slow. IDE support is generally poor. Most likely, your Java application will crash with an OOMKill message.
-
-In this talk, we'll introduce tools and best practices to help you adopt Kubernetes faster and easier. This includes tools such as Jib and Skaffold for fast image build and development cycle turnaround time. We'll also discuss best practices for configuring your Java applications to run inside of Kubernetes, such as health checks, zero downtime deployment, externalizing configurations, logging, and understanding memory usage to avoid OOMKilled situations.
+As a developer advocate working with customers, Ray has seen all sorts of issues due to dependency conflicts. Dependency conflicts come in many different forms and have different impacts on your applications. This presentation examines common causes of a dependency conflict, how you can mitigate it as a library developer, and how end users can resolve it. It also covers what Google has been documenting in terms of best practices and what tools it has created to help, based on its learnings.
 
 ## Videos
-{{< youtube YTPUNesUIbI >}}
+{{< youtube tfZ6x0rYD6Y >}}
 
 ## Slides
-{{< speakerdeck ab93216f9a014144845ce3701c696bfd >}}
+{{< speakerdeck 3176140f6ffc4550988dd0fd5b87c497 >}}
 
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
@@ -30,8 +27,5 @@ Your feedback is important, please take a momement to let me know how I did and 
 - {{< typeform-popup K01lSP saturnism >}}
 
 ## Links
-- [Google Cloud Native with Spring Boot Presentation](/talk/google-cloud-native-spring-boot-kubernetes)
-- [Spring Cloud GCP Homepage](http://cloud.spring.io/spring-cloud-gcp)
-- [Short Code Labs](http://g.co/codelabs/spring)
-- [Long Code Lab](http://bit.ly/spring-gcp-lab)
-- [Spring PetClinic GCP Sample Code](https://github.com/saturnism/spring-petclinic-gcp/)
+- [Google Java Library Best Practices](https://jlbp.dev)
+- [Demo Code GitHub](https://github.com/saturnism/dependency-conflict-examples/)
