@@ -58,8 +58,8 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "css/main.css", "css/add-on.css", "css/override.css"]
-  customJS             = ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js", "https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js", "js/util.js", "js/main.js", "js/backToTop.js"]
+  customCSS            = ["https://assets.calendly.com/assets/external/widget.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "css/main.css", "css/add-on.css", "css/override.css"]
+  customJS             = ["https://assets.calendly.com/assets/external/widget.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js", "https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js", "js/util.js", "js/main.js", "js/backToTop.js"]
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = true # set to true to disable Highlight
@@ -124,28 +124,17 @@ canonifyURLs = true
   weight = 2
 
 [[menu.main]]
+  name = "Blog"
+  url = "https://medium.com/@saturnism"
+  identifier = "fa fa-newspaper-o"
+  weight = 5
+
+[[menu.main]]
   name = "Feedback"
   url = "/feedback/"
   identifier = "fa fa-comments"
-  weight = 3
+  weight = 6
 
-#[[menu.main]]
-#  name = "Events"
-#  url = "/event/"
-#  identifier = "fa fa-calendar"
-#  weight = 3
-
-#[[menu.main]]
-#  name = "Blog"
-#  url = "/blog/"
-#  identifier = "fa fa-newspaper-o"
-#  weight = 4
-
-[[menu.main]]
-  name = "Blog"
-  url = "https://medium.com/@saturnism/latest"
-  identifier = "fa fa-newspaper-o"
-  weight = 5
 
 #[[menu.main]]
 #  name = "Categories"
