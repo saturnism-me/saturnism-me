@@ -5,12 +5,24 @@
   within the formating given.
 */
 
+
+#header .links ul li a {
+  letter-spacing: 0.1em;
+  text-transform: none;
+}
+
 h1, h2, h3, h4, h5, h6, .button, header p, #header .links ul li a, .post > footer .stats li ul li, #footer .copyright {
   font-family: sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.05em;
+  text-transform: none;
+}
+
+#header .links ul li a {
+  font-size: 0.8em;
+  letter-spacing: 0.1em;
   text-transform: none;
 }
 

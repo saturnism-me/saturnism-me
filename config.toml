@@ -124,16 +124,22 @@ canonifyURLs = true
   weight = 2
 
 [[menu.main]]
+  name = "Office Hour"
+  url = "/office-hour/"
+  identifier = "fa fa-calendar-o"
+  weight = 3
+
+[[menu.main]]
   name = "Blog"
   url = "https://medium.com/@saturnism"
   identifier = "fa fa-newspaper-o"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Feedback"
   url = "/feedback/"
   identifier = "fa fa-comments"
-  weight = 6
+  weight = 5
 
 
 #[[menu.main]]
