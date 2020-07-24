@@ -113,7 +113,7 @@ canonifyURLs = true
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
   name = "Spring Boot on GCP"
-  url = "https://spring-gcp.saturnism.me"
+  url = "/spring/"
   identifier = "fa fa-book"
   weight = 2
 
