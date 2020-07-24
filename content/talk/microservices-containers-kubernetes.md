@@ -28,11 +28,11 @@ In this session, you'll learn:
 - [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
 - [Container and Kubernetes by Examples with Spring Boot](https://github.com/saturnism/docker-kubernetes-by-example-java)
 
-## Videos
-{{< youtube kT1vmK0r184 >}}
-
 ## Slides
 {{< speakerdeck 81e3f2702d7c47bf9d7b1fb788cc9efb >}}
+
+## Videos
+{{< youtube kT1vmK0r184 >}}
 
 ## Links
 - [Kubernetes](https://kubernetes.io)

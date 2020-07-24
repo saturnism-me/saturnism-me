@@ -24,11 +24,11 @@ We'll demonstrate all of the concepts via a custom autoscaler that scales a stat
 ## Code Labs / Samples
 - [Autoscaler Source Code on GitHub](https://github.com/saturnism/a8r/)
 
-## Videos
-{{< youtube TgrVPMYmvqI >}}
-
 ## Slides
 {{< speakerdeck f873483affae42e29224851f486c3add >}}
+
+## Videos
+{{< youtube TgrVPMYmvqI >}}
 
 ## Events
 - 2015 SpringOne

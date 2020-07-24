@@ -22,11 +22,12 @@ We'll explore how Istio and Knative extend Kubernetes via Custom Resource Defini
 - [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
 - [Istio with Spring Boot](http://bit.ly/istio-lab)
 
+## Slides
+{{< speakerdeck e064160afbe14a78ab825333ff6bf223 >}}
+
 ## Videos
 {{< youtube HEWb1IWqT30 >}}
 
-## Slides
-{{< speakerdeck e064160afbe14a78ab825333ff6bf223 >}}
 
 ## Links
 - [Knative](https://github.com/knative/docs)

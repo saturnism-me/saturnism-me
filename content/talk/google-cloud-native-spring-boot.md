@@ -24,11 +24,11 @@ Google and Pivotal partnered to develop Spring Cloud adapters for Google Cloud P
 - [Istio with Spring Boot](http://bit.ly/istio-lab)
 - [Knative and Riff with Spring Boot](http://bit.ly/spring-riff-lab)
 
-## Videos
-{{< youtube 2Jo3vy7iQf8 >}}
-
 ## Slides
 {{< speakerdeck 3b59d8eb245346d2b94dcd72fac01167 >}}
+
+## Videos
+{{< youtube 2Jo3vy7iQf8 >}}
 
 ## Links
 - [Spring Cloud GCP](http://cloud.spring.io/spring-cloud-gcp)

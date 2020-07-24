@@ -18,13 +18,13 @@ Join this session to see how you can diagnose and troubleshoot production issues
 - [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
 - [Container and Kubernetes by Examples with Spring Boot](https://github.com/saturnism/docker-kubernetes-by-example-java)
 
-## Videos
-{{< youtube 2hxTTyc6IH8 >}}
-
-{{< youtube pUA83-e82qI >}}
-
 ## Slides
 {{< speakerdeck 484ae001e44a460d8e3efc537b665088 >}}
+
+## Videos
+{{< youtube 2hxTTyc6IH8 >}}
+<br/>
+{{< youtube pUA83-e82qI >}}
 
 ## Links
 - [Kubernetes](https://kubernetes.io)

@@ -26,13 +26,11 @@ In this talk, Ray will introduce Istio, an open source service mesh framework cr
 - [Kubernetes with Spring Boot](http://bit.ly/k8s-lab)
 - [Container and Kubernetes by Examples with Spring Boot](https://github.com/saturnism/docker-kubernetes-by-example-java)
 
-## Videos
-{{< youtube g9qqEnhU_uU >}}
-
-{{< youtube AGztKw580yQ >}}
-
 ## Slides
 {{< speakerdeck bf2f37c2a59a48039de097d18d20e7eb >}}
+
+## Videos
+{{< youtube AGztKw580yQ >}}
 
 ## Links
 - [Istio](https://istio.io)

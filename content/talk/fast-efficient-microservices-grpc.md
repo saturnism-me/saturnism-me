@@ -28,12 +28,12 @@ In addition to learning about gRPC and HTTP/2 concepts with code and demonstrati
 - [gRPC Microservices with Java](https://retroryan8080.gitlab.io/grpc-java-workshop)
 - [gRPC by Example with Java](https://github.com/saturnism/grpc-by-example-java)
 
-## Videos
-{{< youtube DU-q5kOf2Rc >}}
-
 ## Slides
 {{< speakerdeck d09fe2ef925d4f1387b51e71a713dee6 >}}
 
+## Videos
+{{< youtube DU-q5kOf2Rc >}}
+k
 ## Links
 - [gRPC by Example with Java](https://github.com/saturnism/grpc-by-example-java)
 - [gRPC](https://grpc.io)

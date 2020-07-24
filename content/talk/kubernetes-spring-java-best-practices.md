@@ -18,11 +18,11 @@ For Spring and Java developers, building containers is a common obstacle on the 
 
 In this talk, we'll introduce tools and best practices to help you adopt Kubernetes faster and easier. This includes tools such as Jib and Skaffold for fast image build and development cycle turnaround time. We'll also discuss best practices for configuring your Java applications to run inside of Kubernetes, such as health checks, zero downtime deployment, externalizing configurations, logging, and understanding memory usage to avoid OOMKilled situations.
 
-## Videos
-{{< youtube YTPUNesUIbI >}}
-
 ## Slides
 {{< speakerdeck ab93216f9a014144845ce3701c696bfd >}}
+
+## Videos
+{{< youtube YTPUNesUIbI >}}
 
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
