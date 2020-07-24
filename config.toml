@@ -112,16 +112,16 @@ canonifyURLs = true
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
-  name = "Spring on GCP"
+  name = "Spring Boot on GCP"
   url = "https://spring-gcp.saturnism.me"
   identifier = "fa fa-book"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   name = "Talks"
   url = "/talk/"
   identifier = "fa fa-slideshare"
-  weight = 2
+  weight = 1
 
 [[menu.main]]
   name = "Office Hour"
