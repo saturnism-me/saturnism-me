@@ -5,6 +5,19 @@
   within the formating given.
 */
 
+body {
+  background: #ffffff;
+}
+
+.post {
+  border: none;
+}
+
+.post > header {
+  border-bottom: none;
+  margin: -3em 0 0 0;
+}
+
 
 #header .links ul li a {
   letter-spacing: 0.1em;
@@ -45,9 +58,5 @@ header p, .button, .post > footer .stats li ul li {
 
 .content h1, h2, h3, h4, h5, h6 {
   padding-top: 0.5em;
-}
-
-.post > header {
-  margin: -3em 0 1.5em 0;
 }
 
