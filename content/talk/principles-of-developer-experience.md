@@ -21,8 +21,7 @@ Often we hear people talk about “great developer experience” but what does t
 {{< speakerdeck 75eb1d4a3fff4922b59073d20de59ab2 >}}
 
 ## Videos
-The video was recorded live during [2020 DevRelCon Earth](https://2020.devrel.net) Day 7. Our talk starts at 4:43:56.
-{{< youtube W9qZ4utgHSg >}}
+{{< youtube iV_078wuOjo >}}
 
 ## Feedback
 Your feedback is important, please take a momement to let me know how I did and what I can improve on!
