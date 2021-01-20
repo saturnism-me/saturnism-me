@@ -14,7 +14,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "Ray Tsang is currently a Developer Advocate for Google Cloud Platform"
+  description          = ""
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "saturnism.me"
   # Sets where "View More Posts" links
@@ -90,7 +90,7 @@ canonifyURLs = true
 [params.intro]
   header    = "Ray Tsang"
 
-  paragraph = "Developer Advocate, Google Cloud Platform"
+  paragraph = ""
 
   about     = ""
 
