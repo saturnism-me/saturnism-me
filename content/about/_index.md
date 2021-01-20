@@ -5,7 +5,7 @@ categories = ["About"]
 +++
 
 ### Biography
-Ray is a Developer Advocate for the Google Cloud Platform and a Java Champion. Ray works with engineering and product teams to improve Java developer productivity on GCP. Ray also help Alphabet companies migrate and adopt cloud native architecture. Prior to Google, Ray worked at Red Hat, Accenture, and other consulting companies. Ray focused on enterprise architecture, managed solutions delivery, and contributed to open source projects.  Aside from technology, Ray enjoys traveling and adventures.
+Ray is a Java Champion, loves Java, cloud, and developer productivity. Ray currently works at Apple. Prior to this, Ray worked at Google, Red Hat, and, and other consulting companies. Aside from technology, Ray enjoys traveling and adventures.
 
 ### Projects
 - [JDeferred](http://jdeferred.org/)
