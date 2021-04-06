@@ -1,0 +1,59 @@
+{{ if eq .Type "about" }}
+<script type="application/ld+json">
+    {
+        "@context": "http://www.schema.org",
+        "@type": "person",
+        "name": "Ray Tsang"
+        "jobTitle": "Engineering Leader",
+        "url": "https://saturnism.me",
+        "sameAs": [
+            "https://www.linkedin.com/in/rayjtsang/",
+            "https://twitter.com/saturnism",
+            "https://github.com/saturnism/",
+            "https://medium.com/@saturnism",
+            "https://youtube.com/saturnism"
+        ],
+        "image": "/img/main/me.jpg",
+        "description": "Ray is a Java Champion, loves Java, cloud, and developer productivity. Previously, Ray worked at Google, Red Hat, Accenture, and other consulting companies. Aside from technology, Ray enjoys traveling and adventures.",
+        "publishingPrinciples": [
+            "http://jdeferred.org/",
+            "https://github.com/spring-cloud/spring-cloud-gcp",
+            "https://pi.delivery",
+            "http://bit.ly/k8s-lab", 
+            "http://bit.ly/istio-lab", 
+            "http://bit.ly/spring-riff-lab", 
+            "http://bit.ly/spring-gcp-lab", 
+            "https://github.com/saturnism/docker-kubernetes-by-example-java", 
+            "https://github.com/saturnism/istio-by-example-java", 
+            "https://github.com/saturnism/grpc-by-example-java"
+        ]
+    }
+</script>
+{{ else }}
+<script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "{{ .Site.BaseURL }}"
+        },
+        "articleSection" : "{{ .Section }}",
+        "name" : "{{ .Title }}",
+        "headline" : "{{ .Title }}",
+        "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+        "inLanguage" : "{{ .Lang }}",
+        "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+        "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+        "publisher": "{{ range .Site.Author }}{{ . }}{{ end }}",
+        "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+        "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+        "copyrightYear" : "{{ .Date.Format "2006" }}",
+        "datePublished": "{{ .Date }}",
+        "dateModified" : "{{ .Date }}",
+        "url" : "{{ .Permalink }}",
+        "wordCount" : "{{ .WordCount }}",
+        "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]
+    }
+    </script>
+{{ end }}
