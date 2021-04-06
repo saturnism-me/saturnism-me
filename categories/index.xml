@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ray Tsang</title>
+    <link>https://saturnism.me/categories/</link>
+    <description>Recent content in Categories on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://saturnism.me/categories/about/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Native</title>
+      <link>https://saturnism.me/categories/cloud-native/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Experience</title>
+      <link>https://saturnism.me/categories/developer-experience/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/developer-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer Relations</title>
+      <link>https://saturnism.me/categories/developer-relations/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/developer-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>https://saturnism.me/categories/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://saturnism.me/categories/java/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://saturnism.me/categories/maven/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://saturnism.me/categories/microservices/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office Hour</title>
+      <link>https://saturnism.me/categories/office-hour/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/office-hour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>https://saturnism.me/categories/serverless/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/categories/serverless/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Istio on Ray Tsang</title>
+    <link>https://saturnism.me/tags/istio/</link>
+    <description>Recent content in Istio on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/tags/istio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond Kubernetes - Serverless with Knative, riff, and Spring Cloud Function</title>
+      <link>https://saturnism.me/talk/beyond-kubernetes-with-knative/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/beyond-kubernetes-with-knative/</guid>
+      <description>Abstract From function source code to running in Kubernetes in 5 minutes. That&amp;rsquo;s the power some of the latest open source projects can bring to your fingertips. This perceived simplicity actually hides layers of abstractions underneath. In this deep dive, we&amp;rsquo;ll explore all the technology behind the scenes, from Kubernetes, Istio, Knative, to riff and Spring Cloud function.
+We&amp;rsquo;ll explore how Istio and Knative extend Kubernetes via Custom Resource Definitions to provide support for higher level developer concerns such as microservices autoscaling, routing across revisions of an application, and a unified eventing bus to compose event-driven workloads.</description>
+    </item>
+    
+    <item>
+      <title>Making Microservices Micro with Istio and Kubernetes</title>
+      <link>https://saturnism.me/talk/making-microservices-micro-istio/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/making-microservices-micro-istio/</guid>
+      <description>Abstract Microservices are here to stay. When applied properly, microservices techniques and culture ultimately help us continuously improve business at a faster pace than traditional architecture. However, microservices architecture itself can be complex to configure. All of a sudden, we are faced with the need for a service discovery server, how do we store service metadata, make decisions on whether to use client side load balancing or server side load balancing, deal with network resiliency, think how do we enforce service policies and audit, trace nested services calls&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting &amp; Debugging Microservices in Kubernetes</title>
+      <link>https://saturnism.me/talk/troubleshooting-debugging-microservices/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/troubleshooting-debugging-microservices/</guid>
+      <description>Abstract Debugging applications in production is like being the detective in a crime movie. Especially with microservices. Especially with containers. Especially in the cloud. Trying to see what’s going on in a production deployment at scale is impossible without proper tools! Google has spent over a decade deploying containerized Java applications at unprecedented scale and the infrastructure and tools developed by Google have made it uniquely possible to manage, troubleshoot, and debug, at scale.</description>
+    </item>
+    
+  </channel>
+</rss>

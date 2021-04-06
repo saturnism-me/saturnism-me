@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devrel on Ray Tsang</title>
+    <link>https://saturnism.me/tags/devrel/</link>
+    <description>Recent content in Devrel on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/tags/devrel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Principles of Developer Experience</title>
+      <link>https://saturnism.me/talk/principles-of-developer-experience/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/principles-of-developer-experience/</guid>
+      <description>Abstract Often we hear people talk about “great developer experience” but what does that mean? It seems to be like “beauty” – in the eye of the beholder. Yet, great developer experience (DX) is 100% about developer productivity and can be measured in terms of value and time. There are 4 key principles that help guide us to deliver value and reduce friction to increase productivity and thus deliver experiences which developers will love.</description>
+    </item>
+    
+  </channel>
+</rss>

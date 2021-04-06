@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Ray Tsang</title>
+    <link>https://saturnism.me/categories/about/</link>
+    <description>Recent content in About on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>https://saturnism.me/about/resume/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/about/resume/</guid>
+      <description> Resume </description>
+    </item>
+    
+    <item>
+      <title>Ray Tsang</title>
+      <link>https://saturnism.me/about/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/about/</guid>
+      <description>Biography Ray is a Java Champion, loves Java, cloud, and developer productivity. Previously, Ray worked at Google, Red Hat, Accenture, and other consulting companies. Aside from technology, Ray enjoys traveling and adventures.
+Projects  JDeferred Spring Cloud GCP Pi API Cloud Spin Google Cloud Platfrom Community Medium Google Cloud Platform Community Slack  Code Labs / Workshops  Kubernetes with Spring Boot Istio with Spring Boot Knative and Riff with Spring Boot Spring Boot on GCP - Long Lab Spring Boot on GCP - Short Labs gRPC Microservices with Java  Samples  Container and Kubernetes by Examples with Spring Boot Istio by Example with Spring Boot gRPC by Example with Java OpenCensus by Example with Java Spring PetClinic on Google Cloud Platform Go IDE in Container  Contact Best way to contact Ray is direct message on Twitter @saturnism.</description>
+    </item>
+    
+  </channel>
+</rss>

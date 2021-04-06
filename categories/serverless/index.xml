@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless on Ray Tsang</title>
+    <link>https://saturnism.me/categories/serverless/</link>
+    <description>Recent content in Serverless on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/categories/serverless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beyond Kubernetes - Serverless with Knative, riff, and Spring Cloud Function</title>
+      <link>https://saturnism.me/talk/beyond-kubernetes-with-knative/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/beyond-kubernetes-with-knative/</guid>
+      <description>Abstract From function source code to running in Kubernetes in 5 minutes. That&amp;rsquo;s the power some of the latest open source projects can bring to your fingertips. This perceived simplicity actually hides layers of abstractions underneath. In this deep dive, we&amp;rsquo;ll explore all the technology behind the scenes, from Kubernetes, Istio, Knative, to riff and Spring Cloud function.
+We&amp;rsquo;ll explore how Istio and Knative extend Kubernetes via Custom Resource Definitions to provide support for higher level developer concerns such as microservices autoscaling, routing across revisions of an application, and a unified eventing bus to compose event-driven workloads.</description>
+    </item>
+    
+  </channel>
+</rss>

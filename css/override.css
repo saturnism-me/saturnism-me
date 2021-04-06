@@ -1,0 +1,62 @@
+/*
+  This css file is for individual users to restyle items for their personal site,
+  or for the implementation of features specifically for their site. Anything that
+  is an official part of the theme (ex. Pull Requests) should be included in main.css
+  within the formating given.
+*/
+
+body {
+  background: #ffffff;
+}
+
+.post {
+  border: none;
+}
+
+.post > header {
+  border-bottom: none;
+  margin: -3em 0 0 0;
+}
+
+
+#header .links ul li a {
+  letter-spacing: 0.1em;
+  text-transform: none;
+}
+
+h1, h2, h3, h4, h5, h6, .button, header p, #header .links ul li a, .post > footer .stats li ul li, #footer .copyright {
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0.05em;
+  text-transform: none;
+}
+
+#header .links ul li a {
+  font-size: 0.8em;
+  letter-spacing: 0.1em;
+  text-transform: none;
+}
+
+#header h1 a {
+  font-size: 1.0em;
+  letter-spacing: 0.1em;
+}
+
+.content h1, h2, h3, h4, h5, h6 {
+  padding-top: 1em;
+}
+
+header p, .button, .post > footer .stats li ul li {
+  text-transform: none;
+}
+
+.post > header .title {
+  padding: 1em 3em 1em 3em;
+}
+
+.content h1, h2, h3, h4, h5, h6 {
+  padding-top: 0.5em;
+}
+

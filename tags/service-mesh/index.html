@@ -1,0 +1,539 @@
+
+
+
+    
+
+
+
+
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+<script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "https://saturnism.me/"
+        },
+        "articleSection" : "tags",
+        "name" : "Service-mesh",
+        "headline" : "Service-mesh",
+        "description" : "",
+        "inLanguage" : "en",
+        "author" : "",
+        "creator" : "",
+        "publisher": "",
+        "accountablePerson" : "",
+        "copyrightHolder" : "",
+        "copyrightYear" : "2018",
+        "datePublished": "2018-11-13 00:00:00 &#43;0000 UTC",
+        "dateModified" : "2018-11-13 00:00:00 &#43;0000 UTC",
+        "url" : "https://saturnism.me/tags/service-mesh/",
+        "wordCount" : "0",
+        "keywords" : [ "Blog" ]
+    }
+    </script>
+
+
+        
+            <title>Service-mesh - Ray Tsang</title>
+        
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="generator" content="Hugo 0.37.1" />
+        
+
+
+        
+        
+            
+        
+
+        <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Service-mesh"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@saturnism"/>
+
+        <meta property="og:title" content="Service-mesh" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://saturnism.me/tags/service-mesh/" />
+
+
+
+<meta property="og:updated_time" content="2018-11-13T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+        <meta property="og:image" content="https://saturnism.me//images/logo.png">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="512">
+        <meta property="og:image:height" content="512">
+        
+<meta itemprop="name" content="Service-mesh">
+<meta itemprop="description" content="">
+
+
+        
+
+        
+            
+        
+
+        
+        
+
+        
+            
+                
+                    <link rel="stylesheet" href="https://assets.calendly.com/assets/external/widget.css">
+                
+            
+                
+                    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+                
+            
+                
+                    <link rel="stylesheet" href="https://saturnism.me/css/main.css">
+                
+            
+                
+                    <link rel="stylesheet" href="https://saturnism.me/css/add-on.css">
+                
+            
+                
+                    <link rel="stylesheet" href="https://saturnism.me/css/override.css">
+                
+            
+        
+
+
+  
+    
+    <link href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+  
+
+
+      
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-115937973-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+    </head>
+    <body>
+
+      
+      <div id="wrapper">
+
+    
+<header id="header">
+    
+      <h1><a href="https://saturnism.me/">saturnism.me</a></h1>
+    
+
+    <nav class="links">
+        <ul>
+            
+                <li>
+                    <a href="https://saturnism.me/talk/">
+                            <i class="fa fa-slideshare">&nbsp;</i>Talks
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://saturnism.me/spring/">
+                            <i class="fa fa-book">&nbsp;</i>Spring Boot on GCP
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://saturnism.me/feedback/">
+                            <i class="fa fa-comments">&nbsp;</i>Feedback
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://medium.com/@saturnism">
+                            <i class="fa fa-newspaper-o">&nbsp;</i>Blog
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://saturnism.me/about/">
+                            <i class="fa fa-id-card-o">&nbsp;</i>About
+                    </a>
+                </li>
+            
+        </ul>
+    </nav>
+    <nav class="main">
+        <ul>
+            
+            <li class="search">
+                <a class="fa-search" href="#search">Search</a>
+                <form id="search" method="get" action="//google.com/search">
+                    <input type="text" name="q" placeholder="Search" />
+                    <input type="hidden" name="as_sitesearch" value="https://saturnism.me/">
+                </form>
+            </li>
+            <li class="menu">
+                <a class="fa-bars" href="#menu">Menu</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+
+<section id="menu">
+
+    
+        <section>
+            <form class="search" method="get" action="//google.com/search">
+                <input type="text" name="q" placeholder="Search" />
+                <input type="hidden" name="as_sitesearch" value="https://saturnism.me/">
+            </form>
+        </section>
+
+    
+        <section>
+            <ul class="links">
+                
+                    <li>
+                        <a href="https://saturnism.me/talk/">
+                            <h3>
+                                <i class="fa fa-slideshare">&nbsp;</i>Talks
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://saturnism.me/spring/">
+                            <h3>
+                                <i class="fa fa-book">&nbsp;</i>Spring Boot on GCP
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://saturnism.me/feedback/">
+                            <h3>
+                                <i class="fa fa-comments">&nbsp;</i>Feedback
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://medium.com/@saturnism">
+                            <h3>
+                                <i class="fa fa-newspaper-o">&nbsp;</i>Blog
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://saturnism.me/about/">
+                            <h3>
+                                <i class="fa fa-id-card-o">&nbsp;</i>About
+                            </h3>
+                        </a>
+                    </li>
+                
+            </ul>
+        </section>
+
+    
+        <section class="recent-posts">
+            <div class="mini-posts">
+                <header>
+                    <h3>Recent Talks</h3>
+                </header>
+                
+
+                
+                    
+                
+
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="https://saturnism.me/talk/developing-backends-kotlin-google-cloud/">Developing Backends with Kotlin and Spring Boot on Google Cloud</a></h3>
+                            </header>
+                            
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="https://saturnism.me/talk/principles-of-developer-experience/">Principles of Developer Experience</a></h3>
+                            </header>
+                            
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="https://saturnism.me/talk/kubernetes-microservices-lessons-learned/">Lessons Learned Implementing Microservices in Kubernetes</a></h3>
+                            </header>
+                            
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="https://saturnism.me/talk/surviving-dependency-hell-maven/">Surviving Dependency Hell with Maven</a></h3>
+                            </header>
+                            
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="https://saturnism.me/talk/kubernetes-spring-java-best-practices/">Spring (or Java) to Kubernetes Faster and Easier</a></h3>
+                            </header>
+                            
+
+                        </article>
+                
+
+                
+            </div>
+        </section>
+
+    
+        
+</section>
+
+    
+    <div id="main">
+        <h1>Service-mesh</h1>
+        
+        
+
+        
+<ul class="actions pagination">
+    
+        <li><a href="#" class="disabled button big previous">Previous Page</a></li>
+    
+
+    
+        <li><a href="#" class="disabled button big next">Next Page</a></li>
+    
+</ul>
+
+    </div>
+    
+<section id="sidebar">
+
+  
+  <section id="intro">
+    
+    
+      
+        <a href='https://saturnism.me/'><img src="https://saturnism.me/img/main/me.jpg" class="intro-circle" width="150" alt="Ray Tsang" /></a>
+      
+    
+    
+      <header>
+        <h2>Ray Tsang</h2>
+        <p></p>
+      </header>
+    
+    
+      <ul class="icons">
+        
+          
+    <li><a href="https://saturnism.me/tags/service-mesh/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fa fa-rss"></a></li>
+
+
+        
+        
+  <li><a href="//github.com/saturnism" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//medium.com/@saturnism" target="_blank" title="Medium" class="fa fa-medium"></a></li>
+
+
+
+  <li><a href="//linkedin.com/in/rayjtsang" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//youtube.com/saturnism" target="_blank" title="YouTube" class="fa fa-youtube"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//twitter.com/saturnism" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </ul>
+    
+  </section>
+
+  
+  
+  
+
+  
+  
+
+  
+  <section id="footer">
+    
+    <p class="copyright">
+      
+        &copy; 2021
+        
+          Ray Tsang
+        
+      .
+      Powered by <a href="//gohugo.io" target="_blank">Hugo</a>
+    </p>
+  </section>
+</section>
+
+    </div>
+    <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
+    
+
+    
+      
+    
+
+    
+      
+      
+      
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/highlight.min.js"></script>
+        
+        
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/languages/yaml.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/languages/java.min.js"></script>
+        <script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+      
+    
+    
+    
+
+    
+      
+        
+          <script src="https://assets.calendly.com/assets/external/widget.js"></script>
+        
+      
+        
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+        
+      
+        
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
+        
+      
+        
+          <script src="https://saturnism.me/js/util.js"></script>
+        
+      
+        
+          <script src="https://saturnism.me/js/main.js"></script>
+        
+      
+        
+          <script src="https://saturnism.me/js/backToTop.js"></script>
+        
+      
+    
+
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+      
+
+  </body>
+</html>
+

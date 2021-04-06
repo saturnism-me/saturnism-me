@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Native on Ray Tsang</title>
+    <link>https://saturnism.me/categories/cloud-native/</link>
+    <description>Recent content in Cloud Native on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/categories/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developing Backends with Kotlin and Spring Boot on Google Cloud</title>
+      <link>https://saturnism.me/talk/developing-backends-kotlin-google-cloud/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/developing-backends-kotlin-google-cloud/</guid>
+      <description>Abstract Join this talk to learn how you can quickly create a Kotlin backend service using Spring Boot, and use Spring Cloud GCP to leverage many of the useful Google Cloud services for database, storage, and observability in minutes. These services are fully managed, so you don&amp;rsquo;t need to spend any time setting up and managing new infrastructure. Instead, you can just focus on the code. When the backend is ready, we&amp;rsquo;ll deploy it to our serverless platform, where your backend service can automatically scale up the number of instances based on load, but can also scale down to zero instances when no one is using it.</description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned Implementing Microservices in Kubernetes</title>
+      <link>https://saturnism.me/talk/kubernetes-microservices-lessons-learned/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/kubernetes-microservices-lessons-learned/</guid>
+      <description>Abstract Ray has been on a 6-months rotation with an internal Google team to help bringing a project to public Cloud using cloud-native technology stack and Kubernetes. Ray will share the architecture, development environment technicals, devops tools, and some tough decisions that needed to be made to move the project along while being prepared for changes in the future. This session to learn the journey including development environment tools choices (Docker Compose, Skaffold, Kustomize, Jib), to the stack (Gradle, Spring Boot, Kafka, PostgreSQL, gRPC, gRPC-Web), to mono-repo vs multi-repo, to the runtime infrastructure (Kubernetes, Istio, Prometheus, Grafana).</description>
+    </item>
+    
+    <item>
+      <title>Spring (or Java) to Kubernetes Faster and Easier</title>
+      <link>https://saturnism.me/talk/kubernetes-spring-java-best-practices/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/kubernetes-spring-java-best-practices/</guid>
+      <description>Abstract For Spring and Java developers, building containers is a common obstacle on the road to Kubernetes adoption. Traditionally, Dockerfiles define container builds imperatively, but can also be cumbersome, error-prone, and slow. The development cycle can be slow. IDE support is generally poor. Most likely, your Java application will crash with an OOMKill message.
+In this talk, we&amp;rsquo;ll introduce tools and best practices to help you adopt Kubernetes faster and easier.</description>
+    </item>
+    
+    <item>
+      <title>Effective Cloud Native Spring Boot on Kubernetes &amp; Google Cloud Platform</title>
+      <link>https://saturnism.me/talk/google-cloud-native-spring-boot-kubernetes/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/google-cloud-native-spring-boot-kubernetes/</guid>
+      <description>Abstract Enterprises are moving applications to the cloud to increase operational agility. However, most of the migrations are lift and shift that don&amp;rsquo;t really take full advantage of Cloud services. Google Cloud Platform is the first to bring awesome end-to-end experiences for Java application development, from writing with the most popular framework, Spring and Spring Boot, to plugins for Maven, Gradle, Eclipse, and IntelliJ, and to deployment options for PaaS, containers, and more.</description>
+    </item>
+    
+    <item>
+      <title>Beyond Kubernetes - Serverless with Knative, riff, and Spring Cloud Function</title>
+      <link>https://saturnism.me/talk/beyond-kubernetes-with-knative/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/beyond-kubernetes-with-knative/</guid>
+      <description>Abstract From function source code to running in Kubernetes in 5 minutes. That&amp;rsquo;s the power some of the latest open source projects can bring to your fingertips. This perceived simplicity actually hides layers of abstractions underneath. In this deep dive, we&amp;rsquo;ll explore all the technology behind the scenes, from Kubernetes, Istio, Knative, to riff and Spring Cloud function.
+We&amp;rsquo;ll explore how Istio and Knative extend Kubernetes via Custom Resource Definitions to provide support for higher level developer concerns such as microservices autoscaling, routing across revisions of an application, and a unified eventing bus to compose event-driven workloads.</description>
+    </item>
+    
+    <item>
+      <title>Google Cloud Native with Spring Boot</title>
+      <link>https://saturnism.me/talk/google-cloud-native-spring-boot/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/google-cloud-native-spring-boot/</guid>
+      <description>Abstract Spring Framework and Spring Boot have made huge strides in making it easier than ever to develop the next generation of cloud native applications. Importantly, a number of Spring projects provide cloud-vendor agnostic abstractions to developers so that with a simple configuration switch, you&amp;rsquo;re able to move your local application to run in an on prem datacenter or in the cloud with managed services.
+Google and Pivotal partnered to develop Spring Cloud adapters for Google Cloud Platform.</description>
+    </item>
+    
+    <item>
+      <title>JHipster for Google Cloud Platform</title>
+      <link>https://saturnism.me/talk/jhipster-gcp/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/jhipster-gcp/</guid>
+      <description>Abstract Ray Tsang from Google contributed a couple of generators for JHipster, including the initial Kubernetes support, Istio support, and Google App Engine support. In this session, we&amp;rsquo;ll see how to use these generators to quickly create and deploy JHipster applications into these environments. We&amp;rsquo;ll also look at the latest work being done on thin microservices architecture such that circuit breakers, retries, load balancing and more are delegated to Istio.</description>
+    </item>
+    
+    <item>
+      <title>Serverless Kotlin with App Engine</title>
+      <link>https://saturnism.me/talk/serverless-kotlin-appengine/</link>
+      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/serverless-kotlin-appengine/</guid>
+      <description>Abstract After years of development of a new security sandbox, App Engine Standard now supports Java 8 and practically all of the JVM languages that runs atop of standard OpenJDK 8. In the new sandbox environment, we removed the Java security sandbox and the classes whitelist; this allows developers to use all features in the JVM and still being protected within a secure environment.
+App Engine can now support powerful frameworks like Spring Boot, Dropwizard with all the Java 8 language features.</description>
+    </item>
+    
+    <item>
+      <title>Making Microservices Micro with Istio and Kubernetes</title>
+      <link>https://saturnism.me/talk/making-microservices-micro-istio/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/making-microservices-micro-istio/</guid>
+      <description>Abstract Microservices are here to stay. When applied properly, microservices techniques and culture ultimately help us continuously improve business at a faster pace than traditional architecture. However, microservices architecture itself can be complex to configure. All of a sudden, we are faced with the need for a service discovery server, how do we store service metadata, make decisions on whether to use client side load balancing or server side load balancing, deal with network resiliency, think how do we enforce service policies and audit, trace nested services calls&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting &amp; Debugging Microservices in Kubernetes</title>
+      <link>https://saturnism.me/talk/troubleshooting-debugging-microservices/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/troubleshooting-debugging-microservices/</guid>
+      <description>Abstract Debugging applications in production is like being the detective in a crime movie. Especially with microservices. Especially with containers. Especially in the cloud. Trying to see what’s going on in a production deployment at scale is impossible without proper tools! Google has spent over a decade deploying containerized Java applications at unprecedented scale and the infrastructure and tools developed by Google have made it uniquely possible to manage, troubleshoot, and debug, at scale.</description>
+    </item>
+    
+    <item>
+      <title>Docker Tips and Tricks</title>
+      <link>https://saturnism.me/talk/docker-tips-and-tricks/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/docker-tips-and-tricks/</guid>
+      <description>Abstract Everyone is talking about containers—but be aware! It takes discipline to use container technology. It may not be as secure nor as optimal as you thought it would be. Although it’s relatively easy to create a new immutable container image to run everywhere, you may have fallen into many of the caveats. Is it running as the root user? Why are the images taking so much space? Why did your containers run out of space in the first place!</description>
+    </item>
+    
+    <item>
+      <title>Fast and Efficient Microservices with gRPC</title>
+      <link>https://saturnism.me/talk/fast-efficient-microservices-grpc/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/fast-efficient-microservices-grpc/</guid>
+      <description>Abstract gRPC is a high performance, open source, general RPC framework that puts mobile and HTTP/2 first. gRPC is based on many years of Google&amp;rsquo;s experience in building distributed systems - it is designed to be low latency, bandwidth and CPU efficient, to create massively distributed systems that span data centers, as well as power mobile apps, real-time communications, IoT devices and APIs. It&amp;rsquo;s also interoperable between multiple languages.</description>
+    </item>
+    
+    <item>
+      <title>Micro-datacenter with Raspberry Pi and Kubernetes</title>
+      <link>https://saturnism.me/talk/micro-datacenter-raspberry-pi-kubernetes/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/micro-datacenter-raspberry-pi-kubernetes/</guid>
+      <description>Abstract Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. Kubernetes handles a number of failure scenarios gracefully, from a crashed process, to a failure of a cluster node. We&amp;rsquo;ll show this through a real Raspberry Pi computing cluster that runs Kubernetes - and play a real-life chaos monkey by pulling the plugs!</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes API In-Depth with a Custom Autoscaler</title>
+      <link>https://saturnism.me/talk/kubernetes-api-custom-autoscaler/</link>
+      <pubDate>Sat, 30 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/kubernetes-api-custom-autoscaler/</guid>
+      <description>Abstract Kubernetes is a powerful, open source, container orchestration / cluster management tool created by Google. It drew upon all the lessons learned from a near-decade of using containers at Google. In this session, we&amp;rsquo;ll look beyond container orchestration with Kubernetes, but also taking a deep dive into more advanced feature such as autoscaling. But its most powerful feature is its versatile REST API which you can use to tailor Kubernetes to your needs.</description>
+    </item>
+    
+    <item>
+      <title>Deploying &amp; Managing Microservices with Containers and Kubernetes</title>
+      <link>https://saturnism.me/talk/microservices-containers-kubernetes/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/microservices-containers-kubernetes/</guid>
+      <description>Abstract A quick overview on Docker containers, usages, and how to scale up from a single container to a fleet of containers working together with Kubernetes for real-life workloads, such as running java-based applications! Join this session to see how to use Kubernetes to launch, manage, and rolling-upgrade a fleet of Java application instances with session replication.
+Kubernetes builds on top of Docker to construct a clustered container scheduling service.</description>
+    </item>
+    
+  </channel>
+</rss>

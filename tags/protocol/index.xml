@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocol on Ray Tsang</title>
+    <link>https://saturnism.me/tags/protocol/</link>
+    <description>Recent content in Protocol on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast and Efficient Microservices with gRPC</title>
+      <link>https://saturnism.me/talk/fast-efficient-microservices-grpc/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/fast-efficient-microservices-grpc/</guid>
+      <description>Abstract gRPC is a high performance, open source, general RPC framework that puts mobile and HTTP/2 first. gRPC is based on many years of Google&amp;rsquo;s experience in building distributed systems - it is designed to be low latency, bandwidth and CPU efficient, to create massively distributed systems that span data centers, as well as power mobile apps, real-time communications, IoT devices and APIs. It&amp;rsquo;s also interoperable between multiple languages.</description>
+    </item>
+    
+  </channel>
+</rss>

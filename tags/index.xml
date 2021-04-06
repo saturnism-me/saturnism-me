@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ray Tsang</title>
+    <link>https://saturnism.me/tags/</link>
+    <description>Recent content in Tags on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Container</title>
+      <link>https://saturnism.me/tags/container/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer experience</title>
+      <link>https://saturnism.me/tags/developer-experience/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/developer-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devop</title>
+      <link>https://saturnism.me/tags/devop/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/devop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devrel</title>
+      <link>https://saturnism.me/tags/devrel/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/devrel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://saturnism.me/tags/docker/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grpc</title>
+      <link>https://saturnism.me/tags/grpc/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/grpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio</title>
+      <link>https://saturnism.me/tags/istio/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://saturnism.me/tags/java/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jhipster</title>
+      <link>https://saturnism.me/tags/jhipster/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/jhipster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Json</title>
+      <link>https://saturnism.me/tags/json/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://saturnism.me/tags/kotlin/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kubernetes</title>
+      <link>https://saturnism.me/tags/kubernetes/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven</title>
+      <link>https://saturnism.me/tags/maven/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservice</title>
+      <link>https://saturnism.me/tags/microservice/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/microservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observability</title>
+      <link>https://saturnism.me/tags/observability/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/observability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>https://saturnism.me/tags/productivity/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol</title>
+      <link>https://saturnism.me/tags/protocol/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>https://saturnism.me/tags/rest/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>https://saturnism.me/tags/serverless/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service-mesh</title>
+      <link>https://saturnism.me/tags/service-mesh/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://saturnism.me/tags/spring/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://saturnism.me/tags/talk/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

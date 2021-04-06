@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devop on Ray Tsang</title>
+    <link>https://saturnism.me/tags/devop/</link>
+    <description>Recent content in Devop on Ray Tsang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://saturnism.me/tags/devop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Troubleshooting &amp; Debugging Microservices in Kubernetes</title>
+      <link>https://saturnism.me/talk/troubleshooting-debugging-microservices/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://saturnism.me/talk/troubleshooting-debugging-microservices/</guid>
+      <description>Abstract Debugging applications in production is like being the detective in a crime movie. Especially with microservices. Especially with containers. Especially in the cloud. Trying to see what’s going on in a production deployment at scale is impossible without proper tools! Google has spent over a decade deploying containerized Java applications at unprecedented scale and the infrastructure and tools developed by Google have made it uniquely possible to manage, troubleshoot, and debug, at scale.</description>
+    </item>
+    
+  </channel>
+</rss>

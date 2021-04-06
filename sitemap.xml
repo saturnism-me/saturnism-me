@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://saturnism.me/talk/developing-backends-kotlin-google-cloud/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/about/resume/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/spring/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/principles-of-developer-experience/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/office-hour/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/kubernetes-microservices-lessons-learned/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/surviving-dependency-hell-maven/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/kubernetes-spring-java-best-practices/</loc>
+    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/about/</loc>
+    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/google-cloud-native-spring-boot-kubernetes/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/beyond-kubernetes-with-knative/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/google-cloud-native-spring-boot/</loc>
+    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/jhipster-gcp/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/serverless-kotlin-appengine/</loc>
+    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/making-microservices-micro-istio/</loc>
+    <lastmod>2017-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/troubleshooting-debugging-microservices/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/docker-tips-and-tricks/</loc>
+    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/fast-efficient-microservices-grpc/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/micro-datacenter-raspberry-pi-kubernetes/</loc>
+    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/kubernetes-api-custom-autoscaler/</loc>
+    <lastmod>2016-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/microservices-containers-kubernetes/</loc>
+    <lastmod>2015-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/about/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/cloud-native/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/container/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/developer-experience/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/developer-relations/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/developer-experience/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/devop/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/devrel/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/docker/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/feedback/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/feedback/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/grpc/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/istio/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/java/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/java/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/jhipster/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/json/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/kotlin/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/kubernetes/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/maven/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/maven/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/microservice/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/microservices/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/observability/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/office-hour/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/productivity/</loc>
+    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/protocol/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/rest/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/serverless/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/categories/serverless/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/service-mesh/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/spring/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/</loc>
+    <lastmod>2020-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/tags/talk/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saturnism.me/talk/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
