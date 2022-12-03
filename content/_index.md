@@ -1,11 +1,11 @@
 +++
-title = "Ray Tsang"
+title = "About"
 date = "2019-08-02"
 categories = ["About"]
+type = "about"
 +++
 
-### Biography
-Ray is a Java Champion, loves Java, cloud, and developer productivity. Previously, Ray worked at Google, Red Hat, Accenture, and other consulting companies. Aside from technology, Ray enjoys traveling and adventures.
+Ray is a Java Champion, loves Java, cloud, developer productivity, and developer platforms. Aside from technology, Ray enjoys traveling and adventures.
 
 ### Projects
 - [JDeferred](http://jdeferred.org/)

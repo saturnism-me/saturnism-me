@@ -2,8 +2,8 @@ branches:
   only:
   - master
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.37.1/hugo_0.37.1_Linux-64bit.deb
-  - sudo dpkg -i hugo_0.37.1_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.107.0/hugo_0.107.0_linux-amd64.deb
+  - sudo dpkg -i hugo_0.107.0_linux-amd64.deb
   - rm -rf public || exit 0
 script:
   - hugo

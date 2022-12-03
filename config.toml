@@ -24,7 +24,7 @@ canonifyURLs = true
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = false
   # Sets RSS icons to appear on the sidebar with the social media buttons
-  rssAppearAtTop       = true
+  rssAppearAtTop       = false
   rssAppearAtBottom    = false
   # Sets Social Media icons to appear on the sidebar
   socialAppearAtTop    = true
@@ -58,8 +58,8 @@ canonifyURLs = true
   # files by adding the value, "default".
   # customCSS            = ["default", "/path/to/file"]
   # customJS             = ["default", "/path/to/file"]
-  customCSS            = ["https://assets.calendly.com/assets/external/widget.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "css/main.css", "css/add-on.css", "css/override.css"]
-  customJS             = ["https://assets.calendly.com/assets/external/widget.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js", "https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js", "js/util.js", "js/main.js", "js/backToTop.js"]
+  customCSS            = ["css/main.css", "css/add-on.css", "css/override.css", "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"]
+  customJS             = ["https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js", "https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js", "js/util.js", "js/main.js", "js/backToTop.js"]
 
   # options for highlight.js (version, additional languages, and theme)
   disable_highlight = true # set to true to disable Highlight
@@ -120,7 +120,7 @@ canonifyURLs = true
 [[menu.main]]
   name = "Talks"
   url = "/talk/"
-  identifier = "fa fa-slideshare"
+  identifier = "fab fa-slideshare"
   weight = 1
 
 [[menu.main]]
@@ -133,16 +133,8 @@ canonifyURLs = true
 [[menu.main]]
   name = "Blog"
   url = "https://medium.com/@saturnism"
-  identifier = "fa fa-newspaper-o"
+  identifier = "fab fa-medium"
   weight = 5
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  identifier = "fa fa-id-card-o"
-  weight = 6
-
-
 
 #[[menu.main]]
 #  name = "Categories"
@@ -195,6 +187,8 @@ canonifyURLs = true
   instagram        = ""
   tumblr           = ""
   twitter          = "saturnism"
+  mastodonDomain   = "mastodon.social"
+  mastodon         = "@saturnism"
   skype            = ""
   snapchat         = ""
   pinterest        = ""
