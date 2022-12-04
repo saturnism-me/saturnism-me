@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = ""
 date = "2019-08-02"
 categories = ["About"]
 type = "about"
