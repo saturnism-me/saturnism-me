@@ -112,8 +112,8 @@
   <li><a href="//{{.}}.tumblr.com" target="_blank" title="Tumblr" class="fab fa-tumblr"></a></li>
 {{ end }}
 
-{{ if .Site.Social.mastodon }}
-<li><a href="//{{ .Site.Social.mastodonDomain }}/{{ .Site.Social.mastodon }}" target="_blank" title="Mastodon" class="fab fa-mastodon"></a></li>
+{{ with .Site.Social.mastodon }}
+<li><a href="//mastodon.social/{{.}}" target="_blank" title="Mastodon" class="fab fa-mastodon"></a></li>
 {{ end }}
 
 {{ with .Site.Social.twitter }}

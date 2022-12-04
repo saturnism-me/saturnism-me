@@ -187,7 +187,6 @@ canonifyURLs = true
   instagram        = ""
   tumblr           = ""
   twitter          = "saturnism"
-  mastodonDomain   = "mastodon.social"
   mastodon         = "@saturnism"
   skype            = ""
   snapchat         = ""
