@@ -10,7 +10,7 @@ Ray is a Java Champion, loves Java/Kotlin, cloud, developer productivity, and de
 ### Past Projects
 - [Verily Cloud / App Factory](https://youtu.be/Mvb20NdZJDA)
 - [Spring Cloud GCP](https://github.com/spring-cloud/spring-cloud-gcp)
-- [Google Cloud Java Dependency Management][https://jlbp.dev)
+- [Google Cloud Java Dependency Management](https://jlbp.dev)
 - [Google Cloud Pi Day / Pi API](https://pi.delivery)
 - [Cloud Spin](https://youtu.be/f4N9131USUY)
 - [Google Cloud Platfrom Community Medium](http://medium.com/google-cloud)
