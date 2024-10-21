@@ -1,32 +1,27 @@
 {{ if eq .Type "about" }}
 <script type="application/ld+json">
     {
-        "@context": "http://www.schema.org",
-        "@type": "person",
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "dateCreated": "{{ .Date }}",
+      "dateModified" : "{{ .Date }}",
+      "mainEntity": {
+        "@id": "#main-author",
+        "@type": "Person",
         "name": "Ray Tsang",
-        "jobTitle": "Engineering Leader",
-        "url": "https://saturnism.me",
+        "alternateName": "saturnism",
+        "identifier": "saturnism",
+        "description": "Ray is a Java Champion, loves Java, cloud, and developer productivity. Previously, Ray worked at Google, Red Hat, Accenture, and other consulting companies. Aside from technology, Ray enjoys traveling and adventures.",
+        "image": "https://saturnism.me/img/main/me.jpg",
         "sameAs": [
-            "https://www.linkedin.com/in/rayjtsang/",
             "https://twitter.com/saturnism",
             "https://github.com/saturnism/",
+            "https://www.linkedin.com/in/rayjtsang/",
+            "https://bsky.app/profile/saturnism.me",
             "https://medium.com/@saturnism",
             "https://youtube.com/saturnism"
-        ],
-        "image": "/img/main/me.jpg",
-        "description": "Ray is a Java Champion, loves Java, cloud, and developer productivity. Previously, Ray worked at Google, Red Hat, Accenture, and other consulting companies. Aside from technology, Ray enjoys traveling and adventures.",
-        "publishingPrinciples": [
-            "http://jdeferred.org/",
-            "https://github.com/spring-cloud/spring-cloud-gcp",
-            "https://pi.delivery",
-            "http://bit.ly/k8s-lab", 
-            "http://bit.ly/istio-lab", 
-            "http://bit.ly/spring-riff-lab", 
-            "http://bit.ly/spring-gcp-lab", 
-            "https://github.com/saturnism/docker-kubernetes-by-example-java", 
-            "https://github.com/saturnism/istio-by-example-java", 
-            "https://github.com/saturnism/grpc-by-example-java"
         ]
+      }
     }
 </script>
 {{ else }}
