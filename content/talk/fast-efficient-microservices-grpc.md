@@ -32,8 +32,10 @@ In addition to learning about gRPC and HTTP/2 concepts with code and demonstrati
 {{< speakerdeck d09fe2ef925d4f1387b51e71a713dee6 >}}
 
 ## Videos
+{{< youtube hNFM2pDGwKI >}}
+
 {{< youtube DU-q5kOf2Rc >}}
-k
+
 ## Links
 - [gRPC by Example with Java](https://github.com/saturnism/grpc-by-example-java)
 - [gRPC](https://grpc.io)
