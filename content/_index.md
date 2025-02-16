@@ -14,8 +14,9 @@ Ray is a Java Champion, loves Java/Kotlin, cloud, developer productivity, and de
 - [Google Cloud Pi Day / Pi API](https://pi.delivery)
 - [Cloud Spin](https://youtu.be/f4N9131USUY)
 - [Google Cloud Platfrom Community Medium](http://medium.com/google-cloud)
-- [Google Cloud Platform Community Slack](http://bit.ly/gcp-slack)
+- [Google Cloud Platform Community Slack](http://googlecloud-community.slack.com)
 - [JDeferred](http://jdeferred.org/)
+- [Kubernetes on Raspberry Pi](https://medium.com/google-cloud/kubernetes-raspberry-pi-cluster-the-story-ace773cf8573)
 
 
 ### Code Labs / Workshops
@@ -35,4 +36,4 @@ Ray is a Java Champion, loves Java/Kotlin, cloud, developer productivity, and de
 - [Go IDE in Container](https://github.com/saturnism/go-ide)
 
 ### Contact
-Best way to contact Ray is direct message on [Twitter @saturnism](https://twitter.com/saturnism).
+Best way to contact Ray is direct message on [Twitter @saturnism](https://twitter.com/saturnism) and [Bluesky @saturnism.me](https://bsky.app/profile/saturnism.me).
